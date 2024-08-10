@@ -1,0 +1,18 @@
+{
+  "type": "object",
+  "properties": {
+    "name": {
+      "schema": {
+        "type": "string"
+      }
+    },
+    "status": {
+      "schema": {
+        "type": "string"
+      }
+    }
+  },
+  "required": [],
+  "additionalProperties": false,
+  "$id": "PetPetIdPathParameters.json"
+}

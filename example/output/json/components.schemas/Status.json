@@ -1,0 +1,11 @@
+{
+  "type": "string",
+  "default": "available",
+  "enum": [
+    "available",
+    "pending",
+    "sold"
+  ],
+  "title": "Status",
+  "$id": "Status.json"
+}

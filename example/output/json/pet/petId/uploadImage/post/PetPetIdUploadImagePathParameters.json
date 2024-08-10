@@ -1,0 +1,13 @@
+{
+  "type": "object",
+  "properties": {
+    "additionalMetadata": {
+      "schema": {
+        "type": "string"
+      }
+    }
+  },
+  "required": [],
+  "additionalProperties": false,
+  "$id": "PetPetIdUploadImagePathParameters.json"
+}

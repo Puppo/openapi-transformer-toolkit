@@ -1,0 +1,15 @@
+{
+  "type": "object",
+  "properties": {
+    "username": {
+      "schema": {
+        "type": "string"
+      }
+    }
+  },
+  "required": [
+    "username"
+  ],
+  "additionalProperties": false,
+  "$id": "UserUsernameQueryParameters.json"
+}

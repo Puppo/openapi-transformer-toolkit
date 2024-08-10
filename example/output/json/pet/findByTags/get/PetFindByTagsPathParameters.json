@@ -1,0 +1,16 @@
+{
+  "type": "object",
+  "properties": {
+    "tags": {
+      "schema": {
+        "type": "array",
+        "items": {
+          "type": "string"
+        }
+      }
+    }
+  },
+  "required": [],
+  "additionalProperties": false,
+  "$id": "PetFindByTagsPathParameters.json"
+}

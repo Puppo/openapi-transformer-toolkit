@@ -1,0 +1,13 @@
+{
+  "type": "object",
+  "properties": {
+    "status": {
+      "schema": {
+        "$ref": "#/components/schemas/Status"
+      }
+    }
+  },
+  "required": [],
+  "additionalProperties": false,
+  "$id": "PetFindByStatusPathParameters.json"
+}

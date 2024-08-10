@@ -1,0 +1,16 @@
+{
+  "type": "object",
+  "properties": {
+    "orderId": {
+      "schema": {
+        "type": "integer",
+        "format": "int64"
+      }
+    }
+  },
+  "required": [
+    "orderId"
+  ],
+  "additionalProperties": false,
+  "$id": "StoreOrderOrderIdQueryParameters.json"
+}

@@ -1,0 +1,18 @@
+{
+  "type": "object",
+  "properties": {
+    "username": {
+      "schema": {
+        "type": "string"
+      }
+    },
+    "password": {
+      "schema": {
+        "type": "string"
+      }
+    }
+  },
+  "required": [],
+  "additionalProperties": false,
+  "$id": "UserLoginPathParameters.json"
+}
